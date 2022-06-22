@@ -1,0 +1,24 @@
+html {
+  margin-top: 5vh !important;
+}
+
+html,
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+}
+
+body,
+html,
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  flex-direction: row;
+  width: 100%;
+}
+
+#container {
+  margin: 5vh 5%;
+}
